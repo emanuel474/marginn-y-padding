@@ -1,0 +1,11 @@
+.padding {
+    padding: 100px;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.margin {
+    margin: 70px;
+    background-color: lightgreen;
+    text-align: center;
+}
